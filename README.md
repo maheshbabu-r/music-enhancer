@@ -1,2 +1,2 @@
 # music-enhancer
-Old Soulful Music to HD Quality Audio
+Transforming vintage soul music into high-definition audio quality.
